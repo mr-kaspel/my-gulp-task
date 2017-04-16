@@ -1,0 +1,120 @@
+body {
+  background: #ededed;
+  font-famely: "Lato", Helvetica, sans-serif;
+  font-weight: 300;
+  line-height: 1.75;
+  overflow-x: hidden;
+  font-size: 14px; }
+
+h1 {
+  text-align: center;
+  font-size: 300%; }
+
+h2 {
+  text-align: center; }
+
+hr {
+  border: 2px solid #eee;
+  width: 50em; }
+
+small {
+  color: #868383;
+  font-size: 12px; }
+
+.form {
+  width: 50em;
+  height: 100em;
+  margin: 0 auto;
+  background: none repeat scroll 0 0 #FFF;
+  border: 2px;
+  -webkit-box-shadow: 0 0 0 1px rgba(0, 0, 0, 0.05);
+          box-shadow: 0 0 0 1px rgba(0, 0, 0, 0.05); }
+
+img {
+  width: 100%; }
+
+.form p {
+  padding: 0 5em; }
+
+.menu {
+  margin: 0 auto;
+  padding: 0; }
+
+.mn-ls1 {
+  margin: 0 -.3em 0 0;
+  color: #000;
+  -webkit-transition: .5s;
+  transition: .5s;
+  cursor: pointer;
+  padding: .5em .5em .5em 5em;
+  border-left: 1px solid #333;
+  border-top: 1px solid #333;
+  border-bottom: 1px solid #333;
+    -webkit-border-radius: 15px 0 0 15px;
+          border-radius: 15px 0 0 15px; 
+ }
+
+ .mn-ls2 {
+  margin: 0;
+  color: #000;
+  -webkit-transition: .5s;
+  transition: .5s;
+  cursor: pointer;
+  padding: .5em .7em .5em .7em;
+  border-top: 1px solid #333;
+  border-bottom: 1px solid #333;
+ }
+
+  .mn-ls3 {
+  margin: 0 0 0 -.3em;
+  color: #000;
+  -webkit-transition: .5s;
+  transition: .5s;
+  cursor: pointer;
+  padding: .5em 5em .5em .5em;
+  border-top: 1px solid #333;
+  border-right: 1px solid #333;
+  border-bottom: 1px solid #333;
+    -webkit-border-radius: 0 15px 15px 0;
+          border-radius: 0 15px 15px 0; 
+ }
+
+.mn-ls1:hover {
+  background: #424242;
+  color: #FFF;
+  -webkit-border-radius: 15px 0 0 15px;
+          border-radius: 15px 0 0 15px; }
+
+.mn-ls2:hover {
+  background: #424242;
+  color: #FFF; }
+
+.mn-ls3:hover {
+  background: #424242;
+  color: #FFF;
+  -webkit-border-radius: 0 15px 15px 0;
+          border-radius: 0 15px 15px 0; }
+
+.nav-m {
+  text-transform: uppercase;
+  clear: both;
+  text-align: center;
+  padding: .1em 0;
+  margin: 0; }
+
+.circ {
+  float: left;
+  width: 10px;
+  height: 10px;
+  margin: .3em;
+  background-color: #eee;
+  border-radius: 5px;
+}
+
+.circl {
+  width: 4em;
+  margin: 0 auto;
+  height: 25px;
+  text-align: center;
+  clear: both;
+}
