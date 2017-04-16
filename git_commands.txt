@@ -36,3 +36,6 @@ git remote add origin https://github.com/имя/название репозитория.git
 Заливаем папку в репозиторий.
 git push -u origin master
 
+Клонировать репозиторий.
+git clone адрес
+
