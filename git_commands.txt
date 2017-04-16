@@ -50,7 +50,7 @@ git branch new_feature
 git checkout new_feature
 
 Работаем с этой веткой. Если ничего хорошего не вышло, возвращаемся к основной ветке (она же «trunk» или «ствол»).
-git checkout maste.
+git checkout maste
 
 Если вышло что-то хорошее, мерджим ветку в master (о разрешении конфликтов рассказано в следующем параграфе).
 git commit -a # делаем коммит всех изменений в new_feature
