@@ -33,3 +33,6 @@ git commit -m "комментарий"
 Определение удаленный репозиторий.
 git remote add origin https://github.com/имя/название репозитория.git
 
+Заливаем папку в репозиторий.
+git push -u origin master
+
