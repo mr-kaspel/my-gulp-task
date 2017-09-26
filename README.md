@@ -5,9 +5,8 @@ my start with git / build on gulp /
 
 ###### Структура проекта
 
-######  
+```
 app  
-.  
 ├── css  
 ├── gonts  
 ├── img  
@@ -16,8 +15,9 @@ app
 ├── sass  
 └── index.html  
   
-######  
+
 dist  
-.  
 ├── ...  
 └── ...  
+...  
+```
