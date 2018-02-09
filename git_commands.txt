@@ -49,6 +49,9 @@ git pull origin
 git branch new_feature
 git checkout new_feature
 
+Удалить ветку
+git push origin --delete <branchName>
+
 Работаем с этой веткой. Если ничего хорошего не вышло, возвращаемся к основной ветке (она же «trunk» или «ствол»).
 git checkout maste
 
